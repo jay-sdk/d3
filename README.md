@@ -13,3 +13,17 @@ Changes from the tutorial:
 1. vertex colors based on weight, so vertices with few connections are pale orangey, those with the most connections are dark red.
 2. 5-band opacity levels for edge weights/values
 3. lighter "bend" in the edges
+
+
+-----------
+
+racial-preferences.html (and css and js files)
+
+based on the chord diagram example in http://bl.ocks.org/mbostock/4062006, using data from:
+http://faculty.chicagobooth.edu/emir.kamenica/documents/racialPreferences.pdf
+
+Javascript changes:
+
+drawing the chart turned to a function so it can be re-used for drawing multiple charts
+tick adjustments
+legend addition
