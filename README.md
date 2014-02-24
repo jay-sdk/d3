@@ -24,6 +24,6 @@ http://faculty.chicagobooth.edu/emir.kamenica/documents/racialPreferences.pdf
 
 Javascript changes:
 
-drawing the chart turned to a function so it can be re-used for drawing multiple charts
-tick adjustments
-legend addition
+1. drawing the chart turned to a function so it can be re-used for drawing multiple charts
+2. tick adjustments
+3. legend addition
